@@ -414,15 +414,15 @@ const DataService = {
             },
             {
                 id: 'user1',
-                name: 'Kowsik Alluri',
-                email: 'kousikalluri@gmail.com',
-                password: 'password1234',
+                name: 'John Doe',
+                email: 'john@example.com',
+                password: 'password123',
                 createdAt: today.toISOString()
             },
             {
                 id: 'user2',
-                name: 'Jagadeesh Kadimi',
-                email: 'kadamijagadesh@gmail.com',
+                name: 'Jane Smith',
+                email: 'jane@example.com',
                 password: 'password123',
                 createdAt: today.toISOString()
             }
